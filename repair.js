@@ -1,18 +1,18 @@
 
-var WIDTH = 1280;
-var HEIGHT = 720;
+const WIDTH = 1280;
+const HEIGHT = 720;
 
-var NUMTHINGS = 5;
-var THING_WIDTH = 100;
-var DECAY_SPEED = 0.1;
-var MAT_WIDTH = 50;
-var MAT_HEIGHT = 20;
-var MAT_SPEED = 300;
-var OBS_RADIUS = 8;
-var OBS_SPEED = 30;
-var OBS_AALEN = Math.sqrt(OBS_RADIUS*OBS_RADIUS*2);
-var OBS_NUM = 40;
-var OBS_ACCEL = 1/60;
+const NUMTHINGS = 5;
+const THING_WIDTH = 100;
+const DECAY_SPEED = 0.1;
+const MAT_WIDTH = 50;
+const MAT_HEIGHT = 20;
+const MAT_SPEED = 300;
+const OBS_RADIUS = 8;
+const OBS_SPEED = 30;
+const OBS_AALEN = Math.sqrt(OBS_RADIUS*OBS_RADIUS*2);
+const OBS_NUM = 40;
+const OBS_ACCEL = 1/60;
 
 var colors = [
     "#F22",
