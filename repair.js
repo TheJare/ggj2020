@@ -14,7 +14,7 @@ const OBS_AALEN = Math.sqrt(OBS_RADIUS*OBS_RADIUS*2);
 const OBS_NUM = 40;
 const OBS_ACCEL = 1/60;
 
-var colors = [
+const colors = [
     "#F22",
     "#2F2",
     "#22F",
