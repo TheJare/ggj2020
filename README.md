@@ -6,7 +6,11 @@ The initial concept: some things are breaking constantly and you have to bring
 materials to repair them. You have to move the materials across an area with
 constantly moving obstacles. Different materials repair different things.
 
-We will try to tweak:
+You can try it [here](http://iguanademos.com/Jare/games/ggj2020/).
+
+## Development
+
+I will try to tweak things like:
 - speed at which things fail and break
 - amount of obstacles
 - speed and movement style of obstacles
